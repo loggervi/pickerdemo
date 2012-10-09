@@ -39,20 +39,20 @@
 		3781C72D13EA0EDE00EFCCCC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3781C72F13EA0EDE00EFCCCC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3781C73113EA0EDE00EFCCCC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3781C73513EA0EDE00EFCCCC /* PickerViewTutorial-Info.plist */ = {isa = PBXFileReference; path = "PickerViewTutorial-Info.plist"; sourceTree = "<group>"; };
+		3781C73513EA0EDE00EFCCCC /* PickerViewTutorial-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PickerViewTutorial-Info.plist"; sourceTree = "<group>"; };
 		3781C73713EA0EDE00EFCCCC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3781C73913EA0EDE00EFCCCC /* PickerViewTutorial-Prefix.pch */ = {isa = PBXFileReference; path = "PickerViewTutorial-Prefix.pch"; sourceTree = "<group>"; };
+		3781C73913EA0EDE00EFCCCC /* PickerViewTutorial-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PickerViewTutorial-Prefix.pch"; sourceTree = "<group>"; };
 		3781C73A13EA0EDE00EFCCCC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3781C73C13EA0EDE00EFCCCC /* PickerViewTutorialAppDelegate.h */ = {isa = PBXFileReference; path = PickerViewTutorialAppDelegate.h; sourceTree = "<group>"; };
+		3781C73C13EA0EDE00EFCCCC /* PickerViewTutorialAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PickerViewTutorialAppDelegate.h; sourceTree = "<group>"; };
 		3781C73D13EA0EDE00EFCCCC /* PickerViewTutorialAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PickerViewTutorialAppDelegate.m; sourceTree = "<group>"; };
 		3781C74013EA0EDE00EFCCCC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		3781C74213EA0EDE00EFCCCC /* PickerViewTutorialViewController.h */ = {isa = PBXFileReference; path = PickerViewTutorialViewController.h; sourceTree = "<group>"; };
+		3781C74213EA0EDE00EFCCCC /* PickerViewTutorialViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PickerViewTutorialViewController.h; sourceTree = "<group>"; };
 		3781C74313EA0EDE00EFCCCC /* PickerViewTutorialViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PickerViewTutorialViewController.m; sourceTree = "<group>"; };
 		3781C74613EA0EDE00EFCCCC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PickerViewTutorialViewController.xib; sourceTree = "<group>"; };
 		3781C74D13EA0EDE00EFCCCC /* PickerViewTutorialTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PickerViewTutorialTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3781C75513EA0EDE00EFCCCC /* PickerViewTutorialTests-Info.plist */ = {isa = PBXFileReference; path = "PickerViewTutorialTests-Info.plist"; sourceTree = "<group>"; };
+		3781C75513EA0EDE00EFCCCC /* PickerViewTutorialTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PickerViewTutorialTests-Info.plist"; sourceTree = "<group>"; };
 		3781C75713EA0EDE00EFCCCC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3781C75913EA0EDE00EFCCCC /* PickerViewTutorialTests-Prefix.pch */ = {isa = PBXFileReference; path = "PickerViewTutorialTests-Prefix.pch"; sourceTree = "<group>"; };
+		3781C75913EA0EDE00EFCCCC /* PickerViewTutorialTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PickerViewTutorialTests-Prefix.pch"; sourceTree = "<group>"; };
 		3781C75A13EA0EDE00EFCCCC /* PickerViewTutorialTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PickerViewTutorialTests.h; sourceTree = "<group>"; };
 		3781C75C13EA0EDE00EFCCCC /* PickerViewTutorialTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PickerViewTutorialTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
